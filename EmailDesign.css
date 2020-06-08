@@ -123,6 +123,19 @@ button {
 
 /* FOOTER SECTION */
 
+.social-media {
+  padding: 20px;
+}
+
+.social-media li {
+  list-style-type: none;
+  display: inline-flex;
+}
+
+.social-media li a {
+  color: white;
+}
+
 .footer-section {
   background-color: #052f66;
   width: 640px;
