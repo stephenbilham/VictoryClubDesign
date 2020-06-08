@@ -61,6 +61,10 @@ p {
   text-align: center;
 }
 
+.user-id-text-box {
+  padding-top: 15px;
+}
+
 .user-id-section p {
   font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 28px;
@@ -73,14 +77,14 @@ p {
   text-align: center;
   width: 640px;
   height: 291px;
-  padding-top: 3%;
+  padding-top: 20px;
 }
 
 .col {
   background-color: #eeeeee;
   height: 65px;
   text-align: center;
-  margin: 0% 2.5%;
+  margin: 0 12px;
 }
 
 .col p {
@@ -141,7 +145,6 @@ button {
 .footer-section {
   background-color: #052f66;
   width: 640px;
-  height: 84px;
   text-align: center;
 }
 
