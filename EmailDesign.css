@@ -1,0 +1,138 @@
+/* GLOBAL */
+
+* {
+  margin: 0;
+}
+
+html {
+  width: 640px;
+}
+
+p {
+  color: grey;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+}
+
+#section-title {
+  padding-top: 3%;
+  color: #052f66;
+  font-size: 28px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+}
+
+.blank-col {
+  background-color: white;
+  width: 640px;
+  height: 7px;
+}
+/* HEADER SECTION */
+
+.header {
+  text-align: center;
+}
+
+.header-image {
+  max-width: 640px;
+  max-height: 474px;
+}
+
+/* USER ID SECTION */
+
+#safe-keeping {
+  font-size: 14px;
+  color: white;
+  font-style: italic;
+}
+
+#user-id {
+  font-size: 36px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+
+.user-id-section {
+  background-color: #1ab3ba;
+  height: 162px;
+  width: 640px;
+  text-align: center;
+}
+
+.user-id-section p {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 28px;
+  color: white;
+}
+
+/* MEMBER BENEFIT SECTION */
+
+.benefits {
+  text-align: center;
+  width: 640px;
+  height: 291px;
+  padding-top: 3%;
+}
+
+.col {
+  background-color: #eeeeee;
+  height: 65px;
+  text-align: center;
+  margin: 0% 2.5%;
+}
+
+.col p {
+  color: #378bac;
+  padding-top: 3%;
+  font-size: 16px;
+}
+
+/* SCEDULE NOW SECTION */
+.schedule {
+  text-align: center;
+  width: 640px;
+  height: 320px;
+  padding-top: 60px;
+}
+
+.schedule p {
+  margin: 0 59px;
+}
+
+.schedule .p-diff {
+  color: #052f66;
+  text-align: center;
+  font-size: 16px;
+}
+
+#subscription-message {
+  font-size: 16px;
+}
+
+button {
+  display: inline-block;
+  padding: 10px 30px;
+  font-weight: 300;
+  text-decoration: none;
+  border-radius: 100px;
+  border: 1px solid;
+  color: white;
+  border-color: #dc1d40;
+  background-color: #dc1d40;
+}
+
+/* FOOTER SECTION */
+
+.footer-section {
+  background-color: #052f66;
+  width: 640px;
+  height: 84px;
+  text-align: center;
+}
+
+.footer-section p {
+  color: lightslategrey;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
+  height: 32px;
+}
