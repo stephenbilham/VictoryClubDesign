@@ -3,9 +3,10 @@
 * {
   margin: 0;
 }
-
-html {
-  width: 640px;
+html,
+body {
+  margin: 0;
+  padding: 0;
 }
 
 p {
@@ -34,7 +35,7 @@ p {
 }
 
 .header-image {
-  max-width: 640px;
+  margin: 0 320px;
   max-height: 474px;
 }
 
@@ -55,7 +56,7 @@ p {
 .user-id-section {
   background-color: #1ab3ba;
   height: 162px;
-  width: 640px;
+  margin: 0 320px;
   text-align: center;
 }
 
@@ -69,7 +70,7 @@ p {
 
 .benefits {
   text-align: center;
-  width: 640px;
+  margin: 0 320px;
   height: 291px;
   padding-top: 3%;
 }
@@ -90,7 +91,7 @@ p {
 /* SCEDULE NOW SECTION */
 .schedule {
   text-align: center;
-  width: 640px;
+  margin: 0 320px;
   height: 320px;
   padding-top: 60px;
 }
@@ -138,7 +139,7 @@ button {
 
 .footer-section {
   background-color: #052f66;
-  width: 640px;
+  margin: 0 320px;
   height: 84px;
   text-align: center;
 }
